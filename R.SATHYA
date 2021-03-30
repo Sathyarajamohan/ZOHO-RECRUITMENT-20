@@ -1,0 +1,32 @@
+class person
+{
+public;
+string p_name;
+string gender;
+string father_name;
+string mother_name;
+}
+class find_match:public
+{
+public:
+int find (name),n-1)
+{
+for (int i=0,i<n;i++)
+{
+if(name.+_nmae.+_name==person{i}.+_name.+_name)
+return person{i};
+}
+}
+}int main()
+{
+personp{5};match m;
+for(int i=0;i<5;i++)
+{
+p.setname();
+}
+m.find(agilan,5);
+}
+void set name()
+{
+(in>>p.name>>gender>>f.name>>m.name);
+}
